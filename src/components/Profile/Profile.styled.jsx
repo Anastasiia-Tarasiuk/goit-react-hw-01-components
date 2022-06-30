@@ -4,6 +4,7 @@ export const UserProfile = styled.div`
     background-color: #fff;
     border: 1px solid #000;
     padding: 14px;
+    margin-right: 28px
 `;
 
 export const UserWrap = styled.div`
