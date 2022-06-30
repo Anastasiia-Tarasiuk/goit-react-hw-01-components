@@ -5,6 +5,7 @@ export const Item = styled.li`
     border: 1px solid #000;
     display: flex;
     align-items: center;
+    box-shadow: 0px 7px 15px -4px #000000;
 
     &:not(:last-child) {
         margin-bottom: 7px;
