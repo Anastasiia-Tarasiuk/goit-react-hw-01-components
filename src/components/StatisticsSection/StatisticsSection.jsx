@@ -15,7 +15,6 @@ export const StatisticsSection = ({ title, stats }) => {
     </Section>    
 }
 
-// Чи потрібно передавати тут propTypes для label та percentage, якщо їх типи перевіряються в StatisticsItem????
 StatisticsSection.propTypes = {
     title: PropTypes.string,
     stats: PropTypes.arrayOf(PropTypes.shape({
