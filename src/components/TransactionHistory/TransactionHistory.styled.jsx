@@ -8,6 +8,7 @@ export const Table = styled.table`
 export const TableTitle = styled.thead`
     background-color: #00bcd5 ;
     color: #fff;
+    text-transform: uppercase;
 `;
     
 export const TableTitleItem = styled.th`
